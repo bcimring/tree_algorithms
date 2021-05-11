@@ -1,0 +1,31 @@
+tree size 0
+success
+success
+success
+success
+success
+failure
+success
+tree size 5
+not found
+not found
+success
+failure
+failure
+failure
+success
+tree size 7
+city5 city6 city1 city10 city3 city4 city0
+max 2600.30
+failure
+failure
+max 2600.30
+min 2600.30
+failure
+failure
+min 2200.12
+total 2600.30
+failure
+failure
+total 11901.64
+total 3600000

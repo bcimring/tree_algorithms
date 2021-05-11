@@ -1,0 +1,19 @@
+cd clear
+i c0;0;0;0;0;0
+i c1;5;5;5;5;5
+i c2;5;7;6;6;6
+i c3;4;5;7;7;7
+i c4;4;6;8;8;8
+i c2;5;4;9;9;9
+i c5;6;5;10;10;10
+i c6;7;5;11;11;11
+print
+q_max 0;0;NE;p
+q_min 0;0;NE;p
+q_total 0;0;NE;s
+q_min 5;5;NE;p
+q_min 0;0;SE;p
+q_min 5;5;NE;p
+q_min 5;5;SE;p
+q_total 5;5;NW;p
+exit
